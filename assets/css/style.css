@@ -1,0 +1,11 @@
+.font{
+    font-family: Capriola, sans-serif;
+    font-weight: normal;
+}
+body{
+    margin: 0px;
+}
+.fixar {
+    position:fixed;
+    margin-top: 0px !important;
+}
