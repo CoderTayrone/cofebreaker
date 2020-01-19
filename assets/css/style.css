@@ -5,7 +5,6 @@
 body{
     margin: 0px;
 }
-.fixar {
-    position:fixed;
-    margin-top: 0px !important;
+.align{
+	text-align: justify;
 }
